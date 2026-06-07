@@ -2,7 +2,7 @@
 
 ## Live Application
 
-Live URL: [ADD_DEPLOYMENT_URL]
+Live URL: https://fleetassignment.netlify.app/
 
 ## Demo Credentials
 
